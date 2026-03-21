@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HasnainWorks&style=for-the-badge&color=7c3aed&labelColor=0d0d0d)](https://github.com/HasnainWorks)
 [![GitHub followers](https://img.shields.io/github/followers/HasnainWorks?style=for-the-badge&color=7c3aed&labelColor=0d0d0d)](https://github.com/HasnainWorks)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-00c896?style=for-the-badge&labelColor=0d0d0d)](mailto:hasnainqurban@email.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-00c896?style=for-the-badge&labelColor=0d0d0d)](mailto:hasnainqurban284@gmail.com)
 
 </div>
 
@@ -74,11 +74,11 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square"/>
       </p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Repo-Coming%20Soon-7c3aed?style=for-the-badge&logo=github"/>
+      <a href="https://github.com/HasnainWorks/World-Atlas">
+        <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
       </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Demo-Coming%20Soon-555?style=for-the-badge&logo=vercel"/>
+      <a href="https://world-atlas-by-hasnain.netlify.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00c896?style=for-the-badge&logo=netlify"/>
       </a>
     </td>
     <td width="50%">
@@ -93,7 +93,7 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
         <img src="https://img.shields.io/badge/Repo-Coming%20Soon-7c3aed?style=for-the-badge&logo=github"/>
       </a>
       <a href="#">
-        <img src="https://img.shields.io/badge/Demo-Coming%20Soon-555?style=for-the-badge&logo=vercel"/>
+        <img src="https://img.shields.io/badge/Demo-Coming%20Soon-555?style=for-the-badge&logo=netlify"/>
       </a>
     </td>
   </tr>
@@ -144,7 +144,7 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
 ```
 🧠  Strengthen problem-solving skills through daily coding challenges
 ⚙️  Complete the full-stack roadmap (Node.js → Express → MongoDB)
-🌍  Push World Atlas & Movie Land live with full deployment
+🌍  Push all projects live with full deployment
 💼  Build a strong portfolio and land my first dev role
 🔁  Contribute to open-source projects consistently
 ```
@@ -159,7 +159,7 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasnain_qurban)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CW2h8p2jV/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Email](https://img.shields.io/badge/EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainqurban284@gmail.com)
 
 <br/>
 

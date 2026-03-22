@@ -90,10 +90,10 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
         <img src="https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square"/>
       </p>
       <a href="https://github.com/HasnainWorks/Movie-land-">
-        <img src="https://img.shields.io/badge/Repo-Coming%20Soon-7c3aed?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
       </a>
       <a href="movie-land-two-swart.vercel.app">
-        <img src="https://img.shields.io/badge/Demo-Coming%20Soon-555?style=for-the-badge&logo=netlify"/>
+        <img src="https://img.shields.io/badge/Live%20Demo-555?style=for-the-badge&logo=netlify"/>
       </a>
     </td>
   </tr>

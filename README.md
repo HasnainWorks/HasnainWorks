@@ -92,7 +92,7 @@ I'm a **frontend-focused developer** from Lahore who loves building clean, respo
       <a href="https://github.com/HasnainWorks/Movie-land-">
         <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
       </a>
-      <a href="movie-land-two-swart.vercel.app">
+      <a href="https://movie-land-by-hasnain.netlify.app/">
         <img src="https://img.shields.io/badge/Live%20Demo-555?style=for-the-badge&logo=netlify"/>
       </a>
     </td>

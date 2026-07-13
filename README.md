@@ -154,6 +154,9 @@ I'm a **Full Stack Web Developer** from Dera Ghazi Khan, building responsive fro
       <a href="https://github.com/HasnainWorks/Portfolio">
         <img src="https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github"/>
       </a>
+      <a href="https://hasnain-portfolios.netlify.app/">
+        <img src="https://img.shields.io/badge/Live%20Demo-00c896?style=for-the-badge&logo=netlify"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -201,7 +204,7 @@ I'm a **Full Stack Web Developer** from Dera Ghazi Khan, building responsive fro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-qurban)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasnain_qurban)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CW2h8p2jV/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/HasnainWorks/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hasnain-portfolios.netlify.app/)
 [![Email](https://img.shields.io/badge/EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnainqurban284@gmail.com)
 
 <br/>
